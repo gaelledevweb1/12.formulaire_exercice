@@ -1,0 +1,16 @@
+@media (max-width: 500px) {
+    body{
+        max-width: 100%;
+
+    }
+    .wrapper{
+        flex-direction: column;
+        height: max-content;
+        
+    }
+    .section, .card{
+        height:73vh;
+        width: 400px;
+        padding-left: 12px;
+    }
+  }
